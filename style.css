@@ -1,0 +1,24 @@
+
+body .container
+{
+    margin: 20px;
+    padding: 10px;
+    border-style: none;
+}
+.container>.row1>div
+{
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    background-color: gray;
+    color: azure;
+}
+.container>.row2>div
+{
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+    background-color: gray;
+    color: azure;
+}
